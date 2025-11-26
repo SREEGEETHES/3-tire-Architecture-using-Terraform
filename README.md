@@ -4,7 +4,7 @@ This project automates the provisioning of a **three-tier web application archit
 The deployment includes **VPC + ALB + Auto Scaling Group + RDS** following AWS best practices and complete modularization.
 
 
-The Manual version is in my repo check that too
+The Manual version of creating 3-tire Architecture is in my repo check that too..🤘
 
 ---
 
