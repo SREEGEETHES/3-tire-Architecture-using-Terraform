@@ -2,6 +2,8 @@
 
 This project automates the provisioning of a **three-tier web application architecture on AWS** using **Terraform (IaC)**.  
 The deployment includes **VPC + ALB + Auto Scaling Group + RDS** following AWS best practices and complete modularization.
+
+
 The Manual version is in my repo check that too
 
 ---
