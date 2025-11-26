@@ -171,21 +171,6 @@ To understand this project end-to-end:
 
 ---
 
-## 🙌 Credits
-
-Inspired by the **Three-Tier Architecture on AWS using Terraform** video tutorial.  
-Purpose: Hands-on learning & real-world IaC deployment workflow.
-
----
-
-## ⭐ Contribute
-
-PRs are welcome for:
-- Multi-AZ RDS failover mode
-- HTTPS/ACM SSL for ALB
-- Private containerized app deployment (ECS)
-
----
 
 ## 📄 License
 
