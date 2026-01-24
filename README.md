@@ -83,6 +83,7 @@ terraform apply
 
 Confirm with `yes` when prompted.
 
+
 ⏳ RDS creation may take **10–15 minutes**.
 
 ---
